@@ -31,6 +31,7 @@
 <br />
 <br />
 <div>
+
 <img align="left" alt="django" width="26px" src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -45,5 +46,26 @@
 <br />
 
 ----
+### Connect with me:
+
+<div>
+<img style="fill: red;" align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img style="fill: red;" align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img style="fill: red;"  align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img style="fill: red;"  align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img style="fill: red;"  align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" /></div>
+<br />
+<br />
+
+----------
+
+<div>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SYED-M-HUSSAIN&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+  </div>
 
 
