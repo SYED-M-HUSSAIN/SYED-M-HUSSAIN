@@ -4,7 +4,7 @@
 
 ## I'm a Student, Coder and Developer!!
 
-- 🌱 I’m currently learning in the stream of Machine Learning, Embedded System and Micro controlling.
+- 🌱 I’m currently learning in the stream of Machine Learning, Embedded Systems and Micro controlling.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Learn more about Web 3.O and IOT(Internet of Things).
 - ⚡ Fun fact: I love to Play with Micro controllers devices.
