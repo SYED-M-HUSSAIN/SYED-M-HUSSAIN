@@ -1,8 +1,36 @@
-# Hi there, I'm Syed M.Hussain - aka SMH 👋 
+<p align="center">
+<a href="https://github.com/SYED-M-HUSSAIN">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Syed+Muhammad+Hussain;Researcher+%7C+Undergrad+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision"+%7C+Robotics" alt="Typing SVG" />
+</a>
+<br/>
 
+<a href="https://gkos.tech">
+    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+</a>  
+<a href="https://gkos.tech/Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/konstantinos-georgiou/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:georgiou.kostas94@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
 
+<br/> 
 
-## I'm a Student, Coder and Developer!!
+<!-- <a href="https://github.com/SYED-M-HUSSAIN">
+    <img src="https://github-readme-stats.vercel.app/api?username=SYED-M-HUSSAIN>
+</a> -->
+
+<a href="https://github.com/SYED-M-HUSSAIN">
+    <img src="https://github-stats-alpha.vercel.app/api?username=SYED-M-HUSSAIN&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+</p>
 
 - 🌱 I’m currently learning in the stream of Machine Learning, Embedded Systems and Micro controlling.
 - 👯 I’m looking to collaborate with other content creators.
@@ -12,60 +40,20 @@
 
 ----
 
-### Languages and Tools:
-
-<div>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.svg" />
-<!-- <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.svg" /> -->
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.svg" />
-<!-- <img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.svg" /> -->
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" />
-</div>
-<br />
-<br />
-<div>
-
-<img align="left" alt="django" width="26px" src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<!-- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-</div>
-
-<br />
-<br />
-
-----
-### Connect with me:
-
-<div>
-<img style="fill: red;" align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img style="fill: red;" align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img style="fill: red;"  align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img style="fill: red;"  align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img style="fill: red;"  align="left" alt="SYED-M-HUSSAIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" /></div>
-<br />
-<br />
-
-----------
-
-<div>
 <details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SYED-M-HUSSAIN&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SYED-M-HUSSAIN&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SYED-M-HUSSAIN&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SYED-M-HUSSAIN&theme=dracula)
+
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
 </details>
-  </div>
-
-
