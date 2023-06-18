@@ -30,11 +30,11 @@
 
 </p>
 
-- 🌱 I’m currently learning in the stream of Machine Learning, Embedded Systems and Micro controlling.
+- 🌱 I’m currently learning in the stream of Machine Learning, Embedded Systems, and Micro controlling.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Learn more about Web 3.O and IOT(Internet of Things).
-- ⚡ Fun fact: I love to Play with Micro controllers devices.
-- 📖 Doing bachelors in Computer Science from Habib University.
+- 🥅 2023 Goals: Learn more about Computer Vision and IOT(Internet of Things).
+- ⚡ Fun fact: I love to Play with Microcontrollers devices.
+- 📖 Doing bachelor's in Computer Science from Habib University.
 
 ----
 
