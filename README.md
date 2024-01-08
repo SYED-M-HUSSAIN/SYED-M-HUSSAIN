@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning in the stream of Machine Learning, Embedded Systems, and Micro controlling.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Learn more about Computer Vision and IOT(Internet of Things).
+- 🥅 2024 Goals: Learn more about Computer Vision and IOT(Internet of Things).
 - ⚡ Fun fact: I love to Play with Microcontrollers devices.
 - 📖 Doing bachelor's in Computer Science from Habib University.
 
