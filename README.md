@@ -7,7 +7,7 @@
 <a href="https://medium.com/@syedmuhammadhussain">
     <img src="https://img.shields.io/badge/Website-medium-red?style=flat-square">
 </a>  
-<a href="https://drive.google.com/file/d/1B2cfysEiBEF2HknOpR8LluXXqvl6-c4Q/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1B2cfysEiBEF2HknOpR8LluXXqvl6-c4Q/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/syed-muhammad-hussain-00b2a7214/">
