@@ -16,9 +16,10 @@
 <a href="mailto:hs2764641@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
+<a href='https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKKJWFdcZP1xnI2tttSD5y_CSornTYR6GXLZ5Pu4Pn10VwU2qL7Zi2dD3sX2fvYHVl_9oZphp7Cz8Xxkq3ITCA&user=TqMFlMYAAAAJ' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a> 
+</a>
+
 
 <br/> 
 
