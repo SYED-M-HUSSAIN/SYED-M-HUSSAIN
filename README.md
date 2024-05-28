@@ -31,11 +31,11 @@
 
 </p>
 
-- 🌱 I’m currently learning in the stream of Machine Learning, Embedded Systems, and Micro controlling.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2024 Goals: Learn more about Computer Vision and IOT(Internet of Things).
-- ⚡ Fun fact: I love to Play with Microcontrollers devices.
-- 📖 Doing bachelor's in Computer Science from Habib University.
+- 🌱 I’m currently learning in the stream of Large Language Models with AI Agents and Computer Vision.
+- 👯 I’m looking to collaborate in open-source LVM projects.
+- 🥅 2024 Goals: Learn more about multimodal large vision models and diffusion models.
+- ⚡ Fun fact: I love playing with and making robotics projects.
+- 📖 Completed my Bachelor's in Computer Science with a minor in ECE from Habib University.
 
 ----
 
